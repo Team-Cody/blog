@@ -2,9 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: test, | TeamCody | Blog]]></title>
-  <link href="http://Team-Cody.github.io/blog//categories/test/atom.xml" rel="self"/>
+  <link href="http://Team-Cody.github.io/blog/categories/test/atom.xml" rel="self"/>
   <link href="http://Team-Cody.github.io/blog/"/>
-  <updated>2014-05-26T22:21:20+05:30</updated>
+  <updated>2014-05-26T22:22:14+05:30</updated>
   <id>http://Team-Cody.github.io/blog/</id>
   <author>
     <name><![CDATA[Vineeth Raj]]></name>
