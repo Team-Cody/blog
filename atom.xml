@@ -4,7 +4,7 @@
   <title><![CDATA[TeamCody | Blog]]></title>
   <link href="http://Team-Cody.github.io/blog/atom.xml" rel="self"/>
   <link href="http://Team-Cody.github.io/blog/"/>
-  <updated>2014-05-26T21:56:01+05:30</updated>
+  <updated>2014-05-26T21:59:02+05:30</updated>
   <id>http://Team-Cody.github.io/blog/</id>
   <author>
     <name><![CDATA[Vineeth Raj]]></name>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Hi Octo!]]></title>
-    <link href="http://Team-Cody.github.io/blog/blog/2014/05/26/hi-octo/"/>
+    <link href="http://Team-Cody.github.io/blog/2014/05/26/hi-octo/"/>
     <updated>2014-05-26T18:58:40+05:30</updated>
-    <id>http://Team-Cody.github.io/blog/blog/2014/05/26/hi-octo</id>
+    <id>http://Team-Cody.github.io/blog/2014/05/26/hi-octo</id>
     <content type="html"><![CDATA[<p><i>It&rsquo;s been</i> a long time since I&rsquo;ve been sitting on my computer,
 and this is just a test post BTW. Had octopress setup in my computer
 a couple of days ago, so, decided to get one up for TeamCody too :D</p>
